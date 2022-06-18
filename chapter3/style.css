@@ -9,5 +9,15 @@ div p {
 }
 
 p {
-  font-size: 20px;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: serif;
+}
+
+h2 {
+  font-family: '遊ゴシック体', 'Yu Gothic';
 }
